@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # pose_estimation_app
 
-A new Flutter project.
+Projecto de Flutter en apoyo a convextpose
 
 ## Getting Started
 
