@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pose_estimation_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# pose_camera_app
+Camera app for convnextpose
+>>>>>>> 6bb2a725611794f5f389277debede34a12c2302f
